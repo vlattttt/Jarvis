@@ -1,5 +1,5 @@
 {
-  "version": "5.4",
-  "url": "https://github.com/vlattttt/Jarvis/releases/download/v5.4/JARVIS_update_5.4.zip",
-  "notes": "Карта: города по названию без координат. Фикс чёрного первого кадра. Порог качества видео (не берём мыло ниже 720p)."
+  "version": "5.5",
+  "url": "https://github.com/vlattttt/Jarvis/releases/download/v5.5/JARVIS_update_5.5.zip",
+  "notes": "Тестовое обновление: проверка кнопки «Обновить». Внизу показывается версия приложения."
 }
