@@ -1,5 +1,5 @@
 {
-  "version": "5.3",
-  "url": "https://github.com/vlattttt/Jarvis/releases/download/v5.3/JARVIS_update_5.3.zip",
-  "notes": "Groq/Gemini для сценариев, своя озвучка без лишнего TTS, кнопка Load, черновик 540p, фикс зависаний, обновление в один клик."
+  "version": "5.4",
+  "url": "https://github.com/vlattttt/Jarvis/releases/download/v5.4/JARVIS_update_5.4.zip",
+  "notes": "Карта: города по названию без координат. Фикс чёрного первого кадра. Порог качества видео (не берём мыло ниже 720p)."
 }
